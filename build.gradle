@@ -26,6 +26,8 @@ dependencies {
 
     runtimeOnly("com.fasterxml.jackson.module:jackson-module-kotlin")
 
+    implementation("org.jobrunr:jobrunr-micronaut-feature:5.2.0")
+
 }
 
 
